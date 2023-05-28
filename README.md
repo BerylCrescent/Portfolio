@@ -46,6 +46,7 @@ My name is Wioletta Rusiecka. I am a landscape architect, currently working as a
   - Corel, 
   - ArtRage
   - Paint
+  - Duolingo
   - NightCafe
   
 </details>
