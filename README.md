@@ -17,6 +17,7 @@ My name is Wioletta Rusiecka. I am a landscape architect, currently working as a
 - [Introduction to SQL](https://www.sololearn.com/certificates/CC-QZAIQQ31)
 - [SQL Intermediate](https://www.sololearn.com/certificates/CC-P3MUH9RC)
 - [CS50 Introduction to computer science - during](https://www.dareit.io/challenges/qa-manual-testing)
+- [Introduction to HTML](https://www.sololearn.com/certificates/CC-RRAYMULG)
 
 ## Tools
 - Jira
