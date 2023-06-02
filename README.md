@@ -3,20 +3,21 @@
   <br>
  inż. Wioletta Rusiecka / QA Manual Tester </h1>
 <br>
-<br>
+
+![Pen3](https://github.com/BerylCrescent/Portfolio/assets/128975245/d643c1c0-aeb3-456d-b8c5-c575ddc984a0)
 
 ## About me
 
-My name is Wioletta Rusiecka. I am a landscape architect, currently working as an inspector in the Municipal Register of Land and Buildings. Sometimes I feel like Nathan Drake, always with my nose in archives and old maps - however, the treasures I discover are more dusty than dangerous. Outside of work, I am interested in painting, gaming (especially soulslike games) and historical reconstruction. Manual testing has intrigued me for a long time, mostly because I've already dealt with many of its aspects. Why not answer, if it calls? Many great adventures began this way. 
+*My name is Wioletta Rusiecka. I am a landscape architect, currently working as an inspector in the Municipal Register of Land and Buildings. Sometimes I feel like Nathan Drake, always with my nose in archives and old maps - however, the treasures I discover are more dusty than dangerous. Outside of work, I am interested in painting, gaming (especially soulslike games) and historical reconstruction. Manual testing has intrigued me for a long time, mostly because I've already dealt with many of its aspects. Why not answer, if it calls? Many great adventures began this way.* 
 
-[LinkedIn](https://www.linkedin.com/in/wioletta-rusiecka-729230274/)
+[**LinkedIn**](https://www.linkedin.com/in/wioletta-rusiecka-729230274/)
 
 
 ## Courses and certificates
 - [Dare IT challenge - Zostań testerem manualnym](https://www.dareit.io/challenges/qa-manual-testing)
 - [Introduction to SQL](https://www.sololearn.com/certificates/CC-QZAIQQ31)
 - [SQL Intermediate](https://www.sololearn.com/certificates/CC-P3MUH9RC)
-- [CS50 Introduction to computer science - during](https://www.dareit.io/challenges/qa-manual-testing)
+- [CS50 Introduction to computer science - in progress](https://www.dareit.io/challenges/qa-manual-testing)
 - [Introduction to HTML](https://www.sololearn.com/certificates/CC-RRAYMULG)
 
 ## Tools
@@ -53,12 +54,12 @@ My name is Wioletta Rusiecka. I am a landscape architect, currently working as a
 </details>
 
 ## Tech skills
-- Software testing
-- Creating test cases
-- Reporting bugs
-- Analytical skills
-- SQL basics
-- HTML basics
+- 💻 Software testing
+- 📜 Creating test cases
+- 🪲 Reporting bugs
+- 🔬 Analytical skills
+- 📂 SQL basics
+- 🐒 HTML basics
 
 
 ## Recomended
