@@ -10,7 +10,7 @@
 
 *My name is Wioletta Rusiecka. I am a landscape architect, currently working as an inspector in the Municipal Register of Land and Buildings. Sometimes I feel like Nathan Drake, always with my nose in archives and old maps - however, the treasures I discover are more dusty than dangerous. Outside of work, I am interested in painting, gaming (especially soulslike games) and historical reconstruction. Manual testing has intrigued me for a long time, mostly because I've already dealt with many of its aspects. Why not answer, if it calls? Many great adventures began this way.* 
 
-[**LinkedIn**](https://www.linkedin.com/in/wioletta-rusiecka-729230274/)
+[**LinkedIn**](https://www.linkedin.com/in/wioletta-rusiecka/)
 
 
 ## Courses and certificates
