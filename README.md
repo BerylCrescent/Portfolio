@@ -80,17 +80,18 @@ My Scratch games - have some fun
 - [Untitled balloon project](https://scratch.mit.edu/projects/824017993/)
 
 Bug reports and work in Jira
-- SwipeTo native app [bug reports](https://innsmouth.atlassian.net/jira/software/projects/CHAL/boards/1/backlog?selectedIssue=CHAL-2)
+- [SwipeTo](https://swipeto.pl/) native app [bug reports](https://innsmouth.atlassian.net/jira/software/projects/CHAL/boards/1/backlog?selectedIssue=CHAL-2)
 
 Dare IT
 - [Challenge portfolio](https://github.com/BerylCrescent/challenge_portfolio_Wiola)
 
 Test cases
-- [Scouts Test](https://scouts-test.futbolkolektyw.pl/pl/login?redirected=true) - [based on User Story](https://docs.google.com/spreadsheets/d/1qcSn0Cj1NldS_lztPdzc3xv2Kka49Fbw/edit#gid=1896362509)
-- Scouts Test - [based on user experience](https://docs.google.com/spreadsheets/d/1rF0C0XI9mb8PAw-67_fDALD1EyknA0Jl/edit#gid=36835843)
-- Scouts Test - [App's regresion to the stage environment part 1](https://docs.google.com/spreadsheets/d/1-AYkNhLGZ5AoWEJO4eGAs5ImMgHG3Hn8/edit#gid=1838345106)
-- Scouts Test - [App's regresion to the stage environment part 2](https://docs.google.com/spreadsheets/d/1EgkgkhU6K02PZsNAel0lJvN9rpkxZtXX/edit#gid=1297105876)
-- [Pick.eat.up](https://pickeatup.io/) native app - [based on user experience](https://docs.google.com/spreadsheets/d/1ZhTASmDQJxGgv75x1_zy7pYDufsen0Ik/edit#gid=1492997113)
+- [Scouts Test](https://scouts-test.futbolkolektyw.pl/pl/login?redirected=true) :
+   - based on [User Story](https://docs.google.com/spreadsheets/d/1qcSn0Cj1NldS_lztPdzc3xv2Kka49Fbw/edit#gid=1896362509)
+   - based on [user experience](https://docs.google.com/spreadsheets/d/1rF0C0XI9mb8PAw-67_fDALD1EyknA0Jl/edit#gid=36835843)
+   - App's regresion to the stage environment [part 1](https://docs.google.com/spreadsheets/d/1-AYkNhLGZ5AoWEJO4eGAs5ImMgHG3Hn8/edit#gid=1838345106)
+   - App's regresion to the stage environment [part 2](https://docs.google.com/spreadsheets/d/1EgkgkhU6K02PZsNAel0lJvN9rpkxZtXX/edit#gid=1297105876)
+- [Pick.eat.up](https://pickeatup.io/) native app - based on [user experience](https://docs.google.com/spreadsheets/d/1ZhTASmDQJxGgv75x1_zy7pYDufsen0Ik/edit#gid=1492997113)
 
 Bug reports
 - Pick.eat.up native app [bug report](https://docs.google.com/spreadsheets/d/10TbJMsx6LU7SKjUg9gTnkqKkNhOahJFW/edit#gid=1503018807)
