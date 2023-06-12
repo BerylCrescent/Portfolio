@@ -18,6 +18,7 @@
 - [SQL Intermediate](https://www.sololearn.com/certificates/CC-P3MUH9RC)
 - [CS50 Introduction to computer science - in progress](https://www.dareit.io/challenges/qa-manual-testing)
 - [Introduction to HTML](https://www.sololearn.com/certificates/CC-RRAYMULG)
+- [Intruduction to CSS](https://www.sololearn.com/certificates/CC-MUGBUA4U)
 
 ## Tools
 - Jira - bug tracking software,
@@ -59,7 +60,7 @@
 - 🙃 Markdown
 - 📂 SQL basics
 - 🐒 HTML basics
-- 🎨 CSS beginner
+- 🎨 CSS basics
 
 
 ## Recomended
@@ -78,6 +79,9 @@
 My Scratch games - have some fun
 - [Untitled hedgehog game](https://scratch.mit.edu/projects/825750109/)
 - [Untitled balloon project](https://scratch.mit.edu/projects/824017993/)
+
+Sololearn:
+- [CSS project](https://www.sololearn.com/compiler-playground/c16dkLv7V3wa)
 
 Bug reports and work in Jira
 - [SwipeTo](https://swipeto.pl/) native app [bug reports](https://innsmouth.atlassian.net/jira/software/projects/CHAL/boards/1/backlog?selectedIssue=CHAL-2)
