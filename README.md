@@ -19,6 +19,7 @@
 - [CS50 Introduction to computer science - in progress](https://www.dareit.io/challenges/qa-manual-testing)
 - [Introduction to HTML](https://www.sololearn.com/certificates/CC-RRAYMULG)
 - [Intruduction to CSS](https://www.sololearn.com/certificates/CC-MUGBUA4U)
+- [Introduction to C](https://www.sololearn.com/certificates/CC-VET6JYYJ)
 
 ## Tools
 - Jira - bug tracking software,
@@ -61,6 +62,7 @@
 - 📂 SQL basics
 - 🐒 HTML basics
 - 🎨 CSS basics
+- ⌨️ C basics
 
 
 ## Recomended
