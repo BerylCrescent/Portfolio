@@ -81,6 +81,7 @@
 My Scratch games - have some fun
 - [Untitled hedgehog game](https://scratch.mit.edu/projects/825750109/)
 - [Untitled balloon project](https://scratch.mit.edu/projects/824017993/)
+- [Something Fishy](https://scratch.mit.edu/projects/866499106)
 
 Sololearn:
 - [CSS project](https://www.sololearn.com/compiler-playground/c16dkLv7V3wa)
