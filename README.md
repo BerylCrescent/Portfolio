@@ -65,17 +65,6 @@
 - ⌨️ C basics
 
 
-## Recomended
-- [Pasja Informatyki](https://www.youtube.com/@Pasjainformatyki)
-- [Technika Programowania](https://www.youtube.com/@TechnikaProgramowania)
-- [Programiz](https://www.youtube.com/@programizstudios)
-- [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-- [Waldemar Szafraniec Testy i Szkolnia](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
-- [Sololearn](https://www.sololearn.com/)
-- [HakerRank](https://www.hackerrank.com/)
-- [W3Schools](https://www.w3schools.com/)
-
-
 ## My projects
 
 My Scratch games - have some fun
@@ -85,6 +74,10 @@ My Scratch games - have some fun
 
 Sololearn:
 - [CSS project](https://www.sololearn.com/compiler-playground/c16dkLv7V3wa)
+
+SQL Task
+- [Part 1](https://github.com/BerylCrescent/challenge_portfolio_Wiola/blob/main/README.md#task-5)
+- [Part 2](https://github.com/BerylCrescent/challenge_portfolio_Wiola/blob/main/README.md#task-6)
 
 Bug reports and work in Jira
 - [SwipeTo](https://swipeto.pl/) native app [bug reports](https://innsmouth.atlassian.net/jira/software/projects/CHAL/boards/1/backlog?selectedIssue=CHAL-2)
@@ -106,3 +99,12 @@ Bug reports
 - [OLX](https://www.olx.pl/) native and web app - [Exploratory test session report and bug reports](https://docs.google.com/spreadsheets/d/1NKE0xz5pL2klJwpJqtRpYH51nMtYMU4K/edit#gid=660963383)
 
 
+## Recomended
+- [Pasja Informatyki](https://www.youtube.com/@Pasjainformatyki)
+- [Technika Programowania](https://www.youtube.com/@TechnikaProgramowania)
+- [Programiz](https://www.youtube.com/@programizstudios)
+- [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+- [Waldemar Szafraniec Testy i Szkolnia](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
+- [Sololearn](https://www.sololearn.com/)
+- [HakerRank](https://www.hackerrank.com/)
+- [W3Schools](https://www.w3schools.com/)
