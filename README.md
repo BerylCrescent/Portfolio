@@ -85,7 +85,7 @@ SQL Task
 - [Part 2](https://github.com/BerylCrescent/challenge_portfolio_Wiola/blob/main/README.md#task-6)
 
 Bug reports and work in Jira
-- [SwipeTo](https://swipeto.pl/) native app [bug reports](https://innsmouth.atlassian.net/jira/software/projects/CHAL/boards/1/backlog?selectedIssue=CHAL-2)
+- [SwipeTo](https://swipeto.pl/) native app [bug reports](https://innsmouth.atlassian.net/jira/software/projects/CHAL/boards/1/backlog?selectedIssue=CHAL-2), or [link](https://drive.google.com/drive/folders/1ph51rGZwnPDO7zPCDtsO8Sjo7g15uFcI?usp=sharing) to Google Drive
 
 Dare IT
 - [Challenge portfolio](https://github.com/BerylCrescent/challenge_portfolio_Wiola)
