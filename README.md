@@ -64,6 +64,11 @@
 - 🎨 CSS basics
 - ⌨️ C basics
 
+## Soft skills
+
+| Attention to Detail    | 👀 | Creativity        | ✒️ |  Problem-solving      | 💡 |   Intuition             | 
+|          :---:         |  -  |        :---:     |  -  |         :---:         |  -  |          :---:         |
+| Willingness to learn   | 📑  | Resourcefulness  | 🛠️ | Analytical thinking   | 📈 |  Project management     |
 
 ## My projects
 
