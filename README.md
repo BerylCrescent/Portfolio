@@ -30,6 +30,8 @@
 - GitHub - Internet hosting service for software development and version control using Git,
 - Scratch - programming language and online community,
 - Notepad++ - text and source code editor
+- Visual Studio Code - code editor,
+- PyCharm - a dedicated Python Integrated Development Environment,
 - MS Office
 - Libre Office
 
