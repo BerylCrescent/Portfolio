@@ -20,6 +20,7 @@
 - [Introduction to HTML](https://www.sololearn.com/certificates/CC-RRAYMULG)
 - [Intruduction to CSS](https://www.sololearn.com/certificates/CC-MUGBUA4U)
 - [Introduction to C](https://www.sololearn.com/certificates/CC-VET6JYYJ)
+- [Introduction to Python](https://www.sololearn.com/certificates/CC-ZPKSQRR6)
 
 ## Tools
 - Jira - bug tracking software,
@@ -63,6 +64,7 @@
 - 🐒 HTML basics
 - 🎨 CSS basics
 - ⌨️ C basics
+- 🐍 Python basics
 
 ## Soft skills
 
