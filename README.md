@@ -11,6 +11,8 @@
 *My name is Wioletta Rusiecka. I am a landscape architect, currently working as an inspector in the Municipal Register of Land and Buildings. Sometimes I feel like Nathan Drake, always with my nose in archives and old maps - however, the treasures I discover are more dusty than dangerous. Outside of work, I am interested in painting, gaming (especially soulslike games) and historical reconstruction. Manual testing has intrigued me for a long time, mostly because I've already dealt with many of its aspects. Why not answer, if it calls? Many great adventures began this way.* 
 
 [**LinkedIn**](https://www.linkedin.com/in/wioletta-rusiecka/)
+<br>
+[**Curriculum Vitae**](https://drive.google.com/file/d/1Sm7AluRlaC4A8bPAUq2g3KeUP_mti0X4/view?usp=sharing)
 
 ## Courses and certificates
 - [Dare IT challenge](https://www.dareit.io/challenges/qa-manual-testing) - [Become a Manual Tester](https://drive.google.com/file/d/1o4SNWa7UwIpeZN0qx1s7prTEvWmcujch/view)
