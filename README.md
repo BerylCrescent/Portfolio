@@ -13,7 +13,8 @@
 [**LinkedIn**](https://www.linkedin.com/in/wioletta-rusiecka/)
 
 ## Courses and certificates
-- [Dare IT challenge - Zostań testerem manualnym](https://www.dareit.io/challenges/qa-manual-testing)
+- [Dare IT challenge](https://www.dareit.io/challenges/qa-manual-testing) - [Become a Manual Tester](https://drive.google.com/file/d/1o4SNWa7UwIpeZN0qx1s7prTEvWmcujch/view)
+- [Dare IT challenge](https://www.dareit.io/challenges/wstep-do-testow-automatycznych) - Automatic tests in practice + Python - in progress
 - [Introduction to SQL](https://www.sololearn.com/certificates/CC-QZAIQQ31)
 - [SQL Intermediate](https://www.sololearn.com/certificates/CC-P3MUH9RC)
 - [CS50 Introduction to computer science - in progress](https://www.dareit.io/challenges/qa-manual-testing)
@@ -67,6 +68,7 @@
 - 🎨 CSS basics
 - ⌨️ C basics
 - 🐍 Python basics
+- 📇 Xpath
 
 ## Soft skills
 
