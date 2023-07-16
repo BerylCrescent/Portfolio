@@ -19,7 +19,7 @@
 - [Dare IT challenge](https://www.dareit.io/challenges/wstep-do-testow-automatycznych) - Automatic tests in practice + Python - in progress
 - [Introduction to SQL](https://www.sololearn.com/certificates/CC-QZAIQQ31)
 - [SQL Intermediate](https://www.sololearn.com/certificates/CC-P3MUH9RC)
-- [CS50 Introduction to computer science - in progress](https://www.dareit.io/challenges/qa-manual-testing)
+- [CS50 Introduction to computer science](https://www.dareit.io/challenges/qa-manual-testing) - in progress
 - [Introduction to HTML](https://www.sololearn.com/certificates/CC-RRAYMULG)
 - [Intruduction to CSS](https://www.sololearn.com/certificates/CC-MUGBUA4U)
 - [Introduction to C](https://www.sololearn.com/certificates/CC-VET6JYYJ)
@@ -80,25 +80,42 @@
 
 ## My projects
 
-My Scratch games - have some fun
+<br>
+
+***My Scratch games - have some fun***
 - [Untitled hedgehog game](https://scratch.mit.edu/projects/825750109/)
 - [Untitled balloon project](https://scratch.mit.edu/projects/824017993/)
 - [Something Fishy](https://scratch.mit.edu/projects/866499106)
 
-Sololearn:
+<br>
+
+***Sololearn:***
 - [CSS project](https://www.sololearn.com/compiler-playground/c16dkLv7V3wa)
 
-SQL Task
+<br>
+
+***CS50 Intorduction to computer science repositories:***
+- [Code50](https://github.com/code50/128975245)
+
+<br>
+
+***SQL Task:***
 - [Part 1](https://github.com/BerylCrescent/challenge_portfolio_Wiola/blob/main/README.md#task-5)
 - [Part 2](https://github.com/BerylCrescent/challenge_portfolio_Wiola/blob/main/README.md#task-6)
 
-Bug reports and work in Jira
+<br>
+
+***Bug reports and work in Jira:***
 - [SwipeTo](https://swipeto.pl/) native app [bug reports](https://innsmouth.atlassian.net/jira/software/projects/CHAL/boards/1/backlog?selectedIssue=CHAL-2), or [link](https://drive.google.com/drive/folders/1ph51rGZwnPDO7zPCDtsO8Sjo7g15uFcI?usp=sharing) to Google Drive
 
-Dare IT
-- [Challenge portfolio](https://github.com/BerylCrescent/challenge_portfolio_Wiola)
+<br>
 
-Test cases
+**Dare IT:**
+- Become a Manual Tester [Challenge portfolio](https://github.com/BerylCrescent/challenge_portfolio_Wiola)
+
+<br>
+
+***Test cases:***
 - [Scouts Test](https://scouts-test.futbolkolektyw.pl/pl/login?redirected=true) :
    - based on [User Story](https://docs.google.com/spreadsheets/d/1qcSn0Cj1NldS_lztPdzc3xv2Kka49Fbw/edit#gid=1896362509)
    - based on [user experience](https://docs.google.com/spreadsheets/d/1rF0C0XI9mb8PAw-67_fDALD1EyknA0Jl/edit#gid=36835843)
@@ -106,10 +123,14 @@ Test cases
    - App's regresion to the stage environment [part 2](https://docs.google.com/spreadsheets/d/1EgkgkhU6K02PZsNAel0lJvN9rpkxZtXX/edit#gid=1297105876)
 - [Pick.eat.up](https://pickeatup.io/) native app - based on [user experience](https://docs.google.com/spreadsheets/d/1ZhTASmDQJxGgv75x1_zy7pYDufsen0Ik/edit#gid=1492997113)
 
-Bug reports
+<br>
+
+***Bug reports:***
 - Pick.eat.up native app [bug report](https://docs.google.com/spreadsheets/d/10TbJMsx6LU7SKjUg9gTnkqKkNhOahJFW/edit#gid=1503018807)
 - Scouts Test - [Exploratory test session report and bug reports](https://docs.google.com/spreadsheets/d/1vd4z9mM8MzV9GQR6afpK-wJp8_OUmU5I/edit#gid=378705953)
 - [OLX](https://www.olx.pl/) native and web app - [Exploratory test session report and bug reports](https://docs.google.com/spreadsheets/d/1NKE0xz5pL2klJwpJqtRpYH51nMtYMU4K/edit#gid=660963383)
+
+<br>
 
 
 ## Recomended
