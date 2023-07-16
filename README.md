@@ -110,7 +110,7 @@
 
 <br>
 
-**Dare IT:**
+***Dare IT:***
 - Become a Manual Tester [Challenge portfolio](https://github.com/BerylCrescent/challenge_portfolio_Wiola)
 
 <br>
