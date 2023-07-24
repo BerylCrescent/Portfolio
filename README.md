@@ -8,7 +8,7 @@
 
 ## About me
 
-*My name is Wioletta Rusiecka. I am a landscape architect, currently working as an inspector in the Municipal Register of Land and Buildings. Sometimes I feel like Nathan Drake, always with my nose in archives and old maps - however, the treasures I discover are more dusty than dangerous. Outside of work, I am interested in painting, gaming (especially soulslike games) and historical reconstruction. Manual testing has intrigued me for a long time, mostly because I've already dealt with many of its aspects. Why not answer, if it calls? Many great adventures began this way.* 
+*My name is Wioletta Rusiecka. I am an engineer of landscape architecture, currently working as an inspector in the Municipal Register of Land and Buildings. Sometimes I feel like Nathan Drake, always with my nose in archives and old maps - however, the treasures I discover are more dusty than dangerous. Outside of work, I am interested in painting, drawing and gaming (especially soulslike games). Manual testing has intrigued me for a long time, mostly because I've already dealt with many of its aspects. Why not answer, if it calls? Many great adventures began this way.* 
 
 [**LinkedIn**](https://www.linkedin.com/in/wioletta-rusiecka/)
 <br>
@@ -35,19 +35,24 @@
 - Notepad++ - text and source code editor
 - Visual Studio Code - code editor,
 - PyCharm - a dedicated Python Integrated Development Environment,
+- Selenium WebDriver - for automation tests 
+- Robot Framework - automation framework
 - MS Office
 - Libre Office
+
+CAD, 2D and 3D tools:
+- AutoCad - software for precise 2D and 3D drafting, design and modelling,
+- ArchiCad - software solution for architects, designers and engineers for creating precise 3D architectural designs,
+- DraftSight - 2D/3D software for drafting and design
+- Artlantis - a tool for creating photorealistic 3D visualizations of buildings, interior design, gardens,
+- Blender - open-source 3D computer graphics software tool set used for creating animated films, visual effects, art and many more,
+- SketchUp - a program for modeling and creating 3D projects,
 
 <details>
   <summary> Additional tools (for other purposes) </summary>
   <br>
   
   - TurboEwid - Oracle powerd database management software for land, buildings and premises records,
-  - AutoCad - doftware for precise 2D and 3D drafting, design and modelling,
-  - ArchiCad - software solution for architects, designers and engineers for creating precise 3D architectural designs,
-  - Artlantis - a tool for creating photorealistic 3D visualizations of buildings, interior design, gardens,
-  - Blender - open-source 3D computer graphics software tool set used for creating animated films, visual effects, art and many more,
-  - SketchUp - a program for modeling and creating 3D projects,
   - QGis - for managing geographical data, performing spatial analysis and creating maps.
   - Gimp - cross-platform image editor,
   - PhotoShop - creating and processing graphics,
@@ -64,6 +69,7 @@
 - 📜 Creating test cases
 - 🪲 Reporting bugs
 - 🔬 Analytical skills
+- 📐 CAD
 - 🙃 Markdown
 - 📂 SQL basics
 - 🐒 HTML basics
@@ -74,9 +80,9 @@
 
 ## Soft skills
 
-| Attention to Detail    | 👀 | Creativity        | ✒️ |  Problem-solving      | 💡 |   Intuition             | 
-|          :---:         |  -  |        :---:     |  -  |         :---:         |  -  |          :---:         |
-| Willingness to learn   | 📑  | Resourcefulness  | 🛠️ | Analytical thinking   | 📈 |  Project management     |
+| Attention to Detail    | 👀 | Creativity        | ✒️ |  Problem-solving      | 💡 |   Intuition             | 💁 |   Communication skills   |
+|          :---:         |  -  |        :---:     |  -  |         :---:         |  -  |          :---:         |  -  |          :---:           |
+| Willingness to learn   | 📑  | Resourcefulness  | 🛠️ | Analytical thinking   | 📈 |  Project management     | 👥 |        Team player      |
 
 ## My projects
 
@@ -131,6 +137,22 @@
 - [OLX](https://www.olx.pl/) native and web app - [Exploratory test session report and bug reports](https://docs.google.com/spreadsheets/d/1NKE0xz5pL2klJwpJqtRpYH51nMtYMU4K/edit#gid=660963383)
 
 <br>
+
+***CAD - drafts and design:***
+- 2D:
+    - [Stairs draft - final project](https://drive.google.com/file/d/1VdOjLoPTxHz18yLsb9YqHOPSWs3U4fhV/view?usp=drive_link)
+    - [Fence draft - final project](https://drive.google.com/file/d/1ud3T3icvRklvE8ELv7eHFlIRjELRPhI2/view?usp=drive_link)
+    - [Design concept - final project](https://drive.google.com/file/d/1RHGozUdGDXmXs2NHu-auT2J5Slaji6nw/view?usp=drive_link)
+    - [Dendrological inventory - final project](https://drive.google.com/file/d/1FFFxQd1GMX5WJB8m53jOQdezWh_rBHlh/view?usp=drive_link)
+    - [View - final project](https://drive.google.com/file/d/1e0R7qMdGYjBjCG_zYUg7nlvSyRmDjat_/view?usp=drive_link)
+    - [Land development plan](https://drive.google.com/file/d/1dtNcuieHlmrC5Qbt161Ev-36AklX3WXF/view?usp=drive_link)
+- 3D:
+    - [Birdhouse](https://drive.google.com/file/d/1YT2sZlFx8wx8w2MQ-QXQ2KKdhfzKZ9dJ/view?usp=drive_link)
+    - [Bathouse](https://drive.google.com/file/d/1NBTCIMCE8cMxSe6p2oSH09ncSEGplZx3/view?usp=drive_link)
+    - [Bench and table](https://drive.google.com/file/d/1KwHOh3If6vNzBjseBR7Meq-lSAgpEr3j/view?usp=drive_link)
+    - [Motivational plaque](https://drive.google.com/file/d/1u4Qi1bqRhK9QTnCdAdIzGkS6iE_06ytP/view?usp=drive_link)
+    - [Basement](https://drive.google.com/file/d/1VskEVXChLGq57nNOYYi8hjKWMJRDucFZ/view?usp=drive_link)
+    - [Simple forest](https://drive.google.com/file/d/1D6rqpts_4j_wHfZHHVIf2OF4KUVEDRIq/view?usp=drive_link)
 
 
 ## Recomended
