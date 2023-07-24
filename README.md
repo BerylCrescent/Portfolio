@@ -118,6 +118,8 @@ CAD, 2D and 3D tools:
 
 ***Dare IT:***
 - Become a Manual Tester [Challenge portfolio](https://github.com/BerylCrescent/challenge_portfolio_Wiola)
+- Automatic tests in practice + Python [Challenge Portfolio](https://github.com/BerylCrescent/automated_testing_challenge_portfolio_Wiola) - in progress
+- Automatic tests in practice + Python [Robot Framework](https://github.com/BerylCrescent/ScoutsTest_robotframework) - in progress
 
 <br>
 
