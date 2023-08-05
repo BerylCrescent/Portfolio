@@ -119,33 +119,32 @@ CAD, 2D and 3D tools:
 
 <br>
 
-***Test cases - Manual Testing:***
+***Test cases:***
 - [Scouts Test](https://scouts-test.futbolkolektyw.pl/pl/login?redirected=true) :
    - based on [User Story](https://docs.google.com/spreadsheets/d/1qcSn0Cj1NldS_lztPdzc3xv2Kka49Fbw/edit#gid=1896362509)
    - based on [user experience](https://docs.google.com/spreadsheets/d/1rF0C0XI9mb8PAw-67_fDALD1EyknA0Jl/edit#gid=36835843)
    - App's regresion to the stage environment [part 1](https://docs.google.com/spreadsheets/d/1-AYkNhLGZ5AoWEJO4eGAs5ImMgHG3Hn8/edit#gid=1838345106)
    - App's regresion to the stage environment [part 2](https://docs.google.com/spreadsheets/d/1EgkgkhU6K02PZsNAel0lJvN9rpkxZtXX/edit#gid=1297105876)
 - [Pick.eat.up](https://pickeatup.io/) native app - based on [user experience](https://docs.google.com/spreadsheets/d/1ZhTASmDQJxGgv75x1_zy7pYDufsen0Ik/edit#gid=1492997113)
+- Scouts Test automated tests [test cases](https://docs.google.com/spreadsheets/d/1MxS2bTjNevnrcf9vLgro9191d_uy7P3g/edit#gid=591737372)
 
 <br>
 
-***Bug reports - Manual Testing:***
+***Bug reports:***
 - Pick.eat.up native app [bug report](https://docs.google.com/spreadsheets/d/10TbJMsx6LU7SKjUg9gTnkqKkNhOahJFW/edit#gid=1503018807)
 - Scouts Test - [Exploratory test session report and bug reports](https://docs.google.com/spreadsheets/d/1vd4z9mM8MzV9GQR6afpK-wJp8_OUmU5I/edit#gid=378705953)
 - [OLX](https://www.olx.pl/) native and web app - [Exploratory test session report and bug reports](https://docs.google.com/spreadsheets/d/1NKE0xz5pL2klJwpJqtRpYH51nMtYMU4K/edit#gid=660963383)
+- Scouts Test automated tests [bug reports and test report](https://docs.google.com/spreadsheets/d/1tnZP_O4EirXwucyyMgWD2zVHxhYFPB6O/edit#gid=1597780211)
 
 <br>
 
-***Test cases - Automated Testing:***
--
--
-
-<br>
-
-***Bug reports - Automated Testing:***
--
--
-
+***CS50 projects - C language:***
+- [Bulbs](https://drive.google.com/file/d/1W13YppBzrhparOYlqu3uc7tC8e7pgUuQ/view?usp=drive_link) - our input text is encoded as a sequence of binary numbers
+- [Cash](https://drive.google.com/file/d/1jGNihTcokdE2N2Jdafweq6dUWUXBfugv/view?usp=drive_link) - the program calculates the number of coins a customer should be given
+- [Credit](https://drive.google.com/file/d/1KYzm6YwCp9peOl0mADZvDwcPi5GIbDZa/view?usp=drive_link) - the program calculates whether a credit card number is valid and what is it's type
+- [Half](https://drive.google.com/file/d/1kpQDFsqwXxYVV5kEmjQn4nACjVMzQOeY/view?usp=drive_link) - the program calculates our half of the restaurant bill with tax and tip amount
+- [Population](https://drive.google.com/file/d/1Fc8gudlJFpJvJKBe_oXF71RRcGPdHB4S/view?usp=drive_link) - based on the start size of the population, the program calculates how many years it will take to reach its final size, given that each year n/3 is born and n/4 dies
+- [Scrabble](https://drive.google.com/file/d/179htsjD0LdNqIEQVC-jJxDDuZFNOpzyL/view?usp=drive_link) - like in the popular game, points are assigned to each letter, and the program compares the score of each player
 
 <br>
 
