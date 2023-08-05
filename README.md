@@ -1,7 +1,7 @@
 <h1 align="center"> PORTFOLIO 
   <br> :black_nib:
   <br>
- inż. Wioletta Rusiecka / QA Manual Tester </h1>
+ inż. Wioletta Rusiecka / QA Manual & Automated Tester </h1>
 <br>
 
 ![Pen3](https://github.com/BerylCrescent/Portfolio/assets/128975245/d643c1c0-aeb3-456d-b8c5-c575ddc984a0)
