@@ -65,7 +65,8 @@ CAD, 2D and 3D tools:
 </details>
 
 ## Tech skills
-- 💻 Software testing
+- ✋ Manual testing
+- 💻 Automated testing
 - 📜 Creating test cases
 - 🪲 Reporting bugs
 - 🔬 Analytical skills
@@ -100,11 +101,6 @@ CAD, 2D and 3D tools:
 
 <br>
 
-***CS50 Intorduction to computer science repositories:***
-- [Code50](https://github.com/code50/128975245)
-
-<br>
-
 ***SQL Task:***
 - [Part 1](https://github.com/BerylCrescent/challenge_portfolio_Wiola/blob/main/README.md#task-5)
 - [Part 2](https://github.com/BerylCrescent/challenge_portfolio_Wiola/blob/main/README.md#task-6)
@@ -118,12 +114,12 @@ CAD, 2D and 3D tools:
 
 ***Dare IT:***
 - Become a Manual Tester [Challenge portfolio](https://github.com/BerylCrescent/challenge_portfolio_Wiola)
-- Automatic tests in practice + Python [Challenge Portfolio](https://github.com/BerylCrescent/automated_testing_challenge_portfolio_Wiola) - in progress
-- Automatic tests in practice + Python [Robot Framework](https://github.com/BerylCrescent/ScoutsTest_robotframework) - in progress
+- Automatic tests in practice + Python [Challenge Portfolio](https://github.com/BerylCrescent/automated_testing_challenge_portfolio_Wiola)
+- Automatic tests in practice + Python [Robot Framework](https://github.com/BerylCrescent/ScoutsTest_robotframework)
 
 <br>
 
-***Test cases:***
+***Test cases - Manual Testing:***
 - [Scouts Test](https://scouts-test.futbolkolektyw.pl/pl/login?redirected=true) :
    - based on [User Story](https://docs.google.com/spreadsheets/d/1qcSn0Cj1NldS_lztPdzc3xv2Kka49Fbw/edit#gid=1896362509)
    - based on [user experience](https://docs.google.com/spreadsheets/d/1rF0C0XI9mb8PAw-67_fDALD1EyknA0Jl/edit#gid=36835843)
@@ -133,10 +129,23 @@ CAD, 2D and 3D tools:
 
 <br>
 
-***Bug reports:***
+***Bug reports - Manual Testing:***
 - Pick.eat.up native app [bug report](https://docs.google.com/spreadsheets/d/10TbJMsx6LU7SKjUg9gTnkqKkNhOahJFW/edit#gid=1503018807)
 - Scouts Test - [Exploratory test session report and bug reports](https://docs.google.com/spreadsheets/d/1vd4z9mM8MzV9GQR6afpK-wJp8_OUmU5I/edit#gid=378705953)
 - [OLX](https://www.olx.pl/) native and web app - [Exploratory test session report and bug reports](https://docs.google.com/spreadsheets/d/1NKE0xz5pL2klJwpJqtRpYH51nMtYMU4K/edit#gid=660963383)
+
+<br>
+
+***Test cases - Automated Testing:***
+-
+-
+
+<br>
+
+***Bug reports - Automated Testing:***
+-
+-
+
 
 <br>
 
