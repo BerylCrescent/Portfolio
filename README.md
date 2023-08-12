@@ -12,7 +12,7 @@
 
 [**LinkedIn**](https://www.linkedin.com/in/wioletta-rusiecka/)
 <br>
-[**Curriculum Vitae**](https://drive.google.com/file/d/1BHQEuC2xUw645A0cW_2MxaNp3VQuMgfS/view?usp=sharing)
+[**Curriculum Vitae**](https://drive.google.com/file/d/1Sm7AluRlaC4A8bPAUq2g3KeUP_mti0X4/view?usp=drive_link)
 
 ## Courses and certificates
 - [Dare IT challenge](https://www.dareit.io/challenges/qa-manual-testing) - [Become a Manual Tester](https://drive.google.com/file/d/1o4SNWa7UwIpeZN0qx1s7prTEvWmcujch/view)
