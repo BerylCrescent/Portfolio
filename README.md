@@ -16,7 +16,7 @@
 
 ## Courses and certificates
 - [Dare IT challenge](https://www.dareit.io/challenges/qa-manual-testing) - [Become a Manual Tester](https://drive.google.com/file/d/1o4SNWa7UwIpeZN0qx1s7prTEvWmcujch/view)
-- [Dare IT challenge](https://www.dareit.io/challenges/wstep-do-testow-automatycznych) - Automatic tests in practice + Python - in progress
+- [Dare IT challenge](https://www.dareit.io/challenges/wstep-do-testow-automatycznych) - [Automatic tests in practice + Python](https://drive.google.com/file/d/1J1fNzh2bnnHOzQAq0N1S9wWOU8_Cx8Pg/view?usp=sharing)
 - [Introduction to SQL](https://www.sololearn.com/certificates/CC-QZAIQQ31)
 - [SQL Intermediate](https://www.sololearn.com/certificates/CC-P3MUH9RC)
 - [CS50 Introduction to computer science](https://www.dareit.io/challenges/qa-manual-testing) - in progress
